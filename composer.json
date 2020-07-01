@@ -1,0 +1,19 @@
+{
+    "name": "adimuciya/rts-inventory",
+    "description": "Web-application for RTS database management",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artem Strokov",
+            "email": "adimuciya7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rts\\Inventory\\": "src/"
+        }
+    }
+}
